@@ -23,6 +23,21 @@
 1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration/).
 1. Download the [IBM Cloud CLI](https://cloud.ibm.com/docs/cli/index.html#overview).
 1. Create an instance of the Watson Assistant service and get API script:
+  ```
+  <script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "485509de-1bc0-4812-a3db-0338aeff81e2", // The ID of this integration.
+      region: "us-south", // The region your integration is hosted in.
+      serviceInstanceID: "ddba29a8-ea6f-4dc4-9edd-d73ebf17e48f", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+  ```
 
 
 ## Install and setup your environment
