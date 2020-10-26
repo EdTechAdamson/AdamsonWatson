@@ -11,7 +11,7 @@
   <img width="500" src="https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/16974/New%20Banner.jpg">
   <br>
   <img width="250" src="https://media.giphy.com/media/hTATwczg9Sy7l66C6Q/giphy.gif">
-  <img width="250" src="https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif">
+  <img width="440" src="https://media.giphy.com/media/l0HlMldqhAt3QYEh2/giphy.gif">
 </p>
 </p>
 
@@ -22,6 +22,8 @@
 
 1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration/).
 1. Download the [IBM Cloud CLI](https://cloud.ibm.com/docs/cli/index.html#overview).
+1. Create an instance of the Watson Assistant service and get API script:
+
 
 ## Install and setup your environment
 
