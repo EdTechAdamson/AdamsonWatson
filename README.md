@@ -216,11 +216,11 @@ li {
     
 ## Lets Track our changes with Git
 ### Open Terminal on VSCode
-    - Type ```git add . ```
+1. Type ``` git add . ```
     
-    - Type ``` git commit -m "Initial commit"```
+1. Type ``` git commit -m "Initial commit"```
     
-    - Type ``` git push```
+1. Type ``` git push```
 
 
 
