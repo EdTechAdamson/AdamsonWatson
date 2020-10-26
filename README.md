@@ -7,6 +7,11 @@
   <a href="#badge">
     <img alt="Github contributors" src="https://img.shields.io/github/all-contributors/all-contributors/all-contributors">
   </a>
+  <br>
+  <img width="500" src="https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/16974/New%20Banner.jpg">
+  <br>
+  <img width="250" src="https://media.giphy.com/media/hTATwczg9Sy7l66C6Q/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif">
 </p>
 </p>
 
