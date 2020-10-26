@@ -263,3 +263,4 @@ Find more open source projects on the
 [docs]: https://cloud.ibm.com/docs/services/assistant/index.html#index
 [docs_landing]: (https://cloud.ibm.com/docs/services/assistant/index.html#index)
 [sign_up]: https://cloud.ibm.com/registration
+.
