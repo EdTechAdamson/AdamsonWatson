@@ -17,9 +17,9 @@ env:
   IBM_CLOUD_REGION: us-south
   ICR_NAMESPACE: ${{ secrets.ICR_NAMESPACE }}
   REGISTRY_HOSTNAME: us.icr.io
-  IMAGE_NAME: hello-python
-  IKS_CLUSTER: bq1sm2gd0sjtps7ajoa0 # name or id of cluster
-  DEPLOYMENT_NAME: hello-python
+  IMAGE_NAME: adamson-watson
+  IKS_CLUSTER: bubd7bhf0dgnun6b810g
+  DEPLOYMENT_NAME: adamson-watson
   PORT: 5001
 
 jobs:
