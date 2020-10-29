@@ -16,7 +16,10 @@
 </p>
 
 
+# Deployed App
+Click the magical button below to deploy the app.
 
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://stormy-crag-98204.herokuapp.com/)
 
 ## Prerequisites
 
@@ -306,7 +309,7 @@ install the code for the sample program
 
 Click the magical button below to deploy the app.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://stormy-crag-98204.herokuapp.com/)
 
 or....
 
