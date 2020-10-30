@@ -47,6 +47,18 @@ Click the magical button below to deploy the app.
 
 ## Key Features
 
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
+
 ## Prerequisites
 
 1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration/).
@@ -570,7 +582,14 @@ This data is collected from the `VCAP_APPLICATION` environment variable in IBM B
 Deployment tracking can be disabled by removing the `require("cf-deployment-tracker-client").track();` line from the end of the `server.js` file.
 
 
+## Author
+
+👤 **Diamond Purvis**
+👤 **Diamond Purvis**
+👤 **Diamond Purvis**
+👤 **Diamond Purvis**
 
 
+## Show your support
 
 This is an example of something crazy 
