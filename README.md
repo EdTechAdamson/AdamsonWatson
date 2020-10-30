@@ -32,7 +32,8 @@
 </p>
 
 <br/>
-
+<h1></h1>
+<br>
 This is an OpenSource starter application on IBM Cloud that is full stack ready with a node.js back end. It uses Github to host the code as well as Kubernetes/Docker to containerize and deploy to the IBM Cloud. Below you will find a UI design that was created to go along with this project. This project needs **YOU** to finish where it leaves off. This document should provide almost everything you need to hit the ground running!
 <br/>
 <p align="center">
