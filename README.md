@@ -7,6 +7,22 @@
   <a href="#badge">
     <img alt="Github contributors" src="https://img.shields.io/github/all-contributors/all-contributors/all-contributors">
   </a>
+    <a href="https://us-south.git.cloud.ibm.com/Diamond.JPurvis/adamsonwatson/-/blob/master/README.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/IBM-Bluemix/bluemix-hello-node/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
+  <br>
+   <div align="center">
+     <h3>
+      <a href="#key-features">Key Features</a> •
+      <a href="#prerequisites">Prerequisites</a> •  
+      <a href="#installation">Installation</a> •
+      <a href="#how-to-use">How To Use</a> •
+      <a href="#contributing">Contributing</a> 
+     </h3>
+  </div>
   <br>
   <img width="500" src="https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/16974/New%20Banner.jpg">
   <br>
@@ -15,11 +31,22 @@
 </p>
 </p>
 
+<br/>
 
-# Deployed App
+This is an OpenSource starter application on IBM Cloud that is full stack ready with a node.js back end. It uses Github to host the code as well as Kubernetes/Docker to containerize and deploy to the IBM Cloud. Below you will find a UI design that was created to go along with this project. This project needs **YOU** to finish where it leaves off. This document should provide almost everything you need to hit the ground running!
+<br/>
+<p align="center">
+<src="https://user-images.githubusercontent.com/32712461/97727194-22724080-1a9e-11eb-9c9c-fe10f53885e7.gif">
+      <img width="" src="https://user-images.githubusercontent.com/32712461/97727194-22724080-1a9e-11eb-9c9c-fe10f53885e7.gif" alt="Sulu Slideshow">
+
+</p>
+<br/>
 Click the magical button below to deploy the app.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://stormy-crag-98204.herokuapp.com/)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://stormy-crag-98204.herokuapp.com/)
+
+
+## Key Features
 
 ## Prerequisites
 
@@ -43,7 +70,9 @@ Click the magical button below to deploy the app.
   ```
 
 
-## Install and setup your environment
+## Installation
+
+##### Downloading and installing steps: Install and setup your environment
 
 ### Download and install [VSCode](https://code.visualstudio.com/Download)
 1. If you are having trouble look through the this [setup guide](https://code.visualstudio.com/docs/setup/setup-overview)
@@ -302,7 +331,7 @@ here:
 
 At the time of this writing, the most recent version is `cf v6.1.1`.
 
-
+## How To Use
 
 install the code for the sample program
 --------------------------------------------------------------------------------
