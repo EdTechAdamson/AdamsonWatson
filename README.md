@@ -47,17 +47,7 @@ Click the magical button below to deploy the app.
 
 ## Key Features
 
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
+Will be added soon
 
 ## Prerequisites
 
@@ -292,28 +282,8 @@ li {
 
 
 
-## Contributing
-
-See [CONTRIBUTING](CONTRIBUTING.md).
-
-## Open Source @ IBM
-
-Find more open source projects on the
-[IBM Github Page](http://ibm.github.io/).
 
 
-[doc_intents]: https://cloud.ibm.com/docs/services/conversation/intents-entities.html#planning-your-entities
-[docs]: https://cloud.ibm.com/docs/services/assistant/index.html#index
-[docs_landing]: (https://cloud.ibm.com/docs/services/assistant/index.html#index)
-[sign_up]: https://cloud.ibm.com/registration
-
-
-
-
-
-`README.md`
-
-This file!
 
 
 
@@ -346,12 +316,6 @@ At the time of this writing, the most recent version is `cf v6.1.1`.
 
 install the code for the sample program
 --------------------------------------------------------------------------------
-
-Click the magical button below to deploy the app.
-
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://stormy-crag-98204.herokuapp.com/)
-
-or....
 
 From a command/shell terminal
 * `cd` into the parent directory you want to install the project in
@@ -582,14 +546,17 @@ This data is collected from the `VCAP_APPLICATION` environment variable in IBM B
 Deployment tracking can be disabled by removing the `require("cf-deployment-tracker-client").track();` line from the end of the `server.js` file.
 
 
-## Author
+## Contributing
 
-👤 **Diamond Purvis**
-👤 **Diamond Purvis**
-👤 **Diamond Purvis**
-👤 **Diamond Purvis**
+See [CONTRIBUTING](CONTRIBUTING.md).
+
+## Open Source @ IBM
+
+Find more open source projects on the
+[IBM Github Page](http://ibm.github.io/).
 
 
-## Show your support
-
-This is an example of something crazy 
+[doc_intents]: https://cloud.ibm.com/docs/services/conversation/intents-entities.html#planning-your-entities
+[docs]: https://cloud.ibm.com/docs/services/assistant/index.html#index
+[docs_landing]: (https://cloud.ibm.com/docs/services/assistant/index.html#index)
+[sign_up]: https://cloud.ibm.com/registration
