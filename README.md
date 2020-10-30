@@ -36,8 +36,8 @@
 This is an OpenSource starter application on IBM Cloud that is full stack ready with a node.js back end. It uses Github to host the code as well as Kubernetes/Docker to containerize and deploy to the IBM Cloud. Below you will find a UI design that was created to go along with this project. This project needs **YOU** to finish where it leaves off. This document should provide almost everything you need to hit the ground running!
 <br/>
 <p align="center">
-<src="https://user-images.githubusercontent.com/32712461/97727194-22724080-1a9e-11eb-9c9c-fe10f53885e7.gif">
-      <img width="" src="https://user-images.githubusercontent.com/32712461/97727194-22724080-1a9e-11eb-9c9c-fe10f53885e7.gif" alt="Sulu Slideshow">
+   <img width="" src="https://user-images.githubusercontent.com/32712461/97727194-22724080-1a9e-11eb-9c9c-fe10f53885e7.gif" alt="Sulu Slideshow">
+   <img height="20%" img width="30%" src="https://user-images.githubusercontent.com/32712461/97731579-4edc8b80-1aa3-11eb-946d-55f3f638104a.gif" alt="Sulu Slideshow">
 
 </p>
 <br/>
