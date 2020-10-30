@@ -14,20 +14,20 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <br>
-   <div align="center">
-     <h3>
+  <img width="500" src="https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/16974/New%20Banner.jpg">
+  <br>
+  <img width="250" src="https://media.giphy.com/media/hTATwczg9Sy7l66C6Q/giphy.gif">
+  <img width="440" src="https://media.giphy.com/media/l0HlMldqhAt3QYEh2/giphy.gif">
+    <br>
+
+<p align="center">
+	<strong>
       <a href="#key-features">Key Features</a> •
       <a href="#prerequisites">Prerequisites</a> •  
       <a href="#installation">Installation</a> •
       <a href="#how-to-use">How To Use</a> •
       <a href="#contributing">Contributing</a> 
-     </h3>
-  </div>
-  <br>
-  <img width="500" src="https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/16974/New%20Banner.jpg">
-  <br>
-  <img width="250" src="https://media.giphy.com/media/hTATwczg9Sy7l66C6Q/giphy.gif">
-  <img width="440" src="https://media.giphy.com/media/l0HlMldqhAt3QYEh2/giphy.gif">
+	</strong>
 </p>
 </p>
 
