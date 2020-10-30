@@ -7,6 +7,13 @@
   <a href="#badge">
     <img alt="Github contributors" src="https://img.shields.io/github/all-contributors/all-contributors/all-contributors">
   </a>
+    <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://us-south.git.cloud.ibm.com/Diamond.JPurvis/adamsonwatson/-/blob/master/README.md" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/IBM-Bluemix/bluemix-hello-node/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  </a>
   <br>
   <img width="500" src="https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/16974/New%20Banner.jpg">
   <br>
@@ -16,10 +23,22 @@
 </p>
 
 
-# Deployed App
+# ✨ Deployed App
 Click the magical button below to deploy the app.
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://stormy-crag-98204.herokuapp.com/)
+
+## Install
+
+```sh
+npm install
+```
+
+## Usage
+
+```sh
+npm run start
+```
 
 ## Prerequisites
 
@@ -545,4 +564,6 @@ Deployment tracking can be disabled by removing the `require("cf-deployment-trac
 
 
 
-This is an example of something crazy 
+## Show your support
+
+Give a ⭐️ if this project helped you!
